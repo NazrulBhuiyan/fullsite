@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Artifika);
 * {
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -5,7 +6,7 @@
 
 body {
 	background: #000 url('../images/background.jpg');
-	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
 	color: #333;
 }
 
